@@ -1,0 +1,1 @@
+This project uses Python to download an Instagram user’s profile picture. The program prompts the user to enter an Instagram username and then uses the Instaloader library to access the account and save only the profile picture to the computer.  Language used: Python Library used: Instaloader
